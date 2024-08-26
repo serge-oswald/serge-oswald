@@ -41,6 +41,6 @@ The background color is `#ff00ff` for light mode and `#000000` for dark mode.
 ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg)
 
 ****
-| 1   | 2   | 3   | 4   |
+| 1 ............  | 2 ............   | 3 ............   | 4 ............   |
 | --- | --- | --- | --- |
 | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) |
