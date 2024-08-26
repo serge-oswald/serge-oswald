@@ -38,8 +38,9 @@ The background color is `#ff00ff` for light mode and `#000000` for dark mode.
 | git diff     | git diff       | git diff      |
 
 
-![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg =300x200)
+![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg)
 
+<img src="https://www.servovalve.org/nova/img/hdr1.svg" width="300" />
 ****
 | 1 ............  | 2 ............   | 3 ............   | 4 ............   |
 | --- | --- | --- | --- |
