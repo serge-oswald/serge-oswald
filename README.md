@@ -1,5 +1,14 @@
 # About
 
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+The background color is `#ff0000` for light mode and `#000000` for dark mode.
+
+The background color is `#ff00ff` for light mode and `#000000` for dark mode.
+
+
+
 ****
 | First Header  | Second Header |
 | ------------- | ------------- |
