@@ -8,4 +8,3 @@ Half of the duo Servovalve, electronic musician and graphic designer who likes t
 | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) |
 
 Servovalve is an audiovisual project that brings together coded sonographic experiences...
-glkjhgflkgfdjhdlkdjhdmdjkhdlkjhd&nbsp;rekjhe rekjhr
