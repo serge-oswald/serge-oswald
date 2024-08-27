@@ -1,8 +1,4 @@
-# About Serge Oswald
-
-Electronic musician and graphic designer who likes to manipulate svg and canvas with js.
-
-Half of the duo Servovalve.
+Half of the duo Servovalve, electronic musician and graphic designer who likes to manipulate svg and canvas with js.
 
 
 # About Servovalve
