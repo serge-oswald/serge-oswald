@@ -4,7 +4,7 @@ Electronic musician and graphic designer who likes to manipulate svg and canvas 
 
 # About Servovalve
 
-| 1 ...................    | 2 .......   | 3 .............   | 4 .............................   |
+|  `1         ` | `2         ` | `3         ` | `4         ` |
 | --- | --- | --- | --- |
 | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) |
 
