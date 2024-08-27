@@ -1,6 +1,6 @@
 # About SRV
 
-Servovalve is an audiovisual project that brings together coded sonographic experiences.
+Servovalve is an audiovisual project that brings together coded sonographic experiences...
 
 | 1 ...................    | 2 .......   | 3 .............   | 4 ...................   |
 | --- | --- | --- | --- |
