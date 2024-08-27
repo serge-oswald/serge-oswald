@@ -1,4 +1,4 @@
-# About SRVvvvvv
+# About Servovalve
 
 Servovalve is an audiovisual project that brings together coded sonographic experiences...
 
