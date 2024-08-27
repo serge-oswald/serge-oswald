@@ -9,4 +9,4 @@ Electronic musician and graphic designer who likes to manipulate svg and canvas 
 | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) | ![servovalve website](https://www.servovalve.org/nova/img/hdr1.svg) |
 
 Servovalve is an audiovisual project that brings together coded sonographic experiences...
-glkjhgflkgfdjhdlkdjhdmdjkhdlkjhd&nbs;rekjhe rekjhr
+glkjhgflkgfdjhdlkdjhdmdjkhdlkjhd&nbsp;rekjhe rekjhr
